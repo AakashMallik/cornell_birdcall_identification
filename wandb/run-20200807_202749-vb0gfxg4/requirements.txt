@@ -107,7 +107,7 @@ parso==0.7.0
 pathtools==0.1.2
 pexpect==4.6.0
 pickleshare==0.7.5
-pillow==7.0.0
+pillow==8.1.1
 pip==20.0.2
 pretrainedmodels==0.7.4
 prometheus-client==0.8.0
